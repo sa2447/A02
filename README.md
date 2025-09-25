@@ -25,8 +25,14 @@
 <li>If using bash you need to copy the SSH url </li>
 <li>Open Git Bash</li>
 <li>Navigate to your desired directory location on your device</li>
-<li>type in <strong>git clone</strong> <em>SSH url</em></li>
+<li>Type in <strong>git clone</strong> <em>SSH url</em></li>
 <li>The current version of the repository is now on your device and is ready to edit</li>
+<li>If using GitHub Desktop you can easily push changes to the repository using the commit button</li>
+<li>If using Git Bash you must open the application and make sure you are in the correct directory</li>
+<li>Initalize a branch using <strong>git init -b </strong><em>branch name</em></li>
+<li>Add the files using <strong>git add </strong><em>file name</em> or <em> .</em></li>
+<li>Commit the changes with <strong>git commit -m </strong><em> "comment"</em></li>
+<li>You will now have a branch on the repository on GitHub that has all of your changes</li>
 
  
 </ol>
