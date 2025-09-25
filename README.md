@@ -54,3 +54,9 @@
 <li> <strong>Remote -</strong>         </li>
 <li> <strong>Repository -</strong>     </li>
 </ul>
+
+
+## References ##
+
+https://github.com/
+https://git-scm.com/docs
