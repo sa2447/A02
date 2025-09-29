@@ -41,22 +41,22 @@
 ## Glossary
  
 <ul>
-<li> <strong>Branch -</strong>         </li>
-<li> <strong>Clone -</strong>          </li>
-<li> <strong>Commit -</strong>         </li>
-<li> <strong>Fetch -</strong>          </li>
-<li> <strong>GIT -</strong>            </li>
-<li> <strong>Github -</strong>         </li>
-<li> <strong>Merge -</strong>          </li>
-<li> <strong>Merge Conflict -</strong> </li>
-<li> <strong>Push -</strong>           </li>
-<li> <strong>Pull -</strong>           </li>
-<li> <strong>Remote -</strong>         </li>
-<li> <strong>Repository -</strong>     </li>
+<li> <strong>Branch -</strong> a space seperate from main that allows you to make changes wtihout affecting main         </li>
+<li> <strong>Clone -</strong> a GIT command that allows to create a copy of a directory on your personal device         </li>
+<li> <strong>Commit -</strong> a snapshot of of your work at a certain time that requires a message, tracks changes       </li>
+<li> <strong>Fetch -</strong> a command that downloads commits files and refs to your local device from a remote repository without merging automatically        </li>
+<li> <strong>GIT -</strong>  a version control system that tracks changes to a certain file or file sets          </li>
+<li> <strong>Github -</strong> a web based software that uses Git to allow collaborative version control and repository management        </li>
+<li> <strong>Merge -</strong> allows you to combine branches together or back to main and cre         </li>
+<li> <strong>Merge Conflict -</strong> a merge conflict occurs when two merging files both modify the same aspects of a file in different ways and are merged</li>
+<li> <strong>Push -</strong> a push is used to upload changes on a local repository to a remote one          </li>
+<li> <strong>Pull -</strong> a pull is used to update a local repository with a remote one, opposite of push         </li>
+<li> <strong>Remote -</strong> a remote repository is a repository not hosted on your local device and is hosted somewhere else like GitHub         </li>
+<li> <strong>Repository -</strong> a directory that acts as the main storage for a projects files and history     </li>
 </ul>
 
 
 ## References ##
 
-https://github.com/
-https://git-scm.com/docs
+<p>https://github.com/</p>
+<p>https://git-scm.com/docs</p>
